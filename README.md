@@ -11,6 +11,7 @@ Final project for the Building AI course
 My idea is to use AI tools to help and support customer service representatives, by solving simple and repeating questions that customers may ask when contacting CSR's. 
 I hope that this can be done by Building AI course project.
 
+![Representation of this project](/ai-in-customer-service.png)
 
 ## Background
 
