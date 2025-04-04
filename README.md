@@ -2,9 +2,9 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
+# AI in customer service
 
-Final project for the Building AI course
+AI in customer service project for the Building AI course
 
 ## Summary
 
